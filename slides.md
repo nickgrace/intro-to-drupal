@@ -21,10 +21,13 @@ http://nickgrace.github.io/intro-to-drupal
 ## Agenda
 
 * What is Drupal
-* Rich Snippets
-* Google's Knowledge Graph
-* Schema.org Module
-* The Future of Schemas, the DOM, and SEO
+* Download Drupal 7
+* The 5 Minute Install
+* Site Administration
+* Content in Drupal
+* Modules (Best Practices)
+* Site Building (Best Practices)
+* Theming (Best Practices)
 
 ---
 
@@ -167,6 +170,52 @@ http://nickgrace.github.io/intro-to-drupal
 
 --
 
+## Nodes
+
+![Nodes](img/03_add-basic-page.png)
+
+--
+
+## Fields
+
+![Nodes](img/03_fields.png)
+
+--
+
+## Entities
+
+--
+
+## Blocks
+
+![Nodes](img/03_blocks.png)
+
+--
+
+## Menus
+
+![Nodes](img/03_menus.png)
+
+--
+
+## Taxonomy
+
+![Nodes](img/03_taxonomy.png)
+
+--
+
+## Pages
+
+--
+
+## Regions
+
+![Drupal Flow](img/regions.png)
+
+[Source: How to view block regions in Drupal 7](http://www.inmotionhosting.com/support/edu/drupal-7/blocks-and-regions/find-regions)
+
+--
+
 ## Drupal Flow
 
 ![Drupal Flow](img/drupal_flow.gif)
@@ -175,17 +224,112 @@ http://nickgrace.github.io/intro-to-drupal
 
 ---
 
+# Download Drupal 7
+
+--
+
+## Download Drupal 7
+
+![Download](img/download-drupal.png)
+https://www.drupal.org/project/drupal
+
+--
+
+## Drupal 7 File Directory
+
+![Directory](img/00_files-d7.png)
+
+--
+
+## Drupal 7 File Directory
+
+![Directory](img/00_files-d7-b.png)
+
+---
+
+# The 5 Minute Install
+
+--
+
+## Acquia Dev Desktop
+
+![Dev Desktop](img/aquiadev-install.png)
+
+http://www.acquia.com/downloads
+
+--
+
+## Acquia Dev Desktop Dashboard
+
+![Dashboard](img/01_devdesk-dashboard.png)
+
+--
+
+## Import New Site
+
+![Import](img/01_devdesk-sites.png)
+
+--
+
+## Import New Site
+
+![Import](img/01_devdesk-import.png)
+
+--
+
+## Import New Site
+
+![Intro](img/01_install-intro.png)
+
+--
+
+## Import New Site
+
+![Configure](img/01_install-configure.png)
+
+--
+
+## Import New Site
+
+![Complete](img/01_install-complete.png)
+
+--
+
+## Visit Your New Site
+
+![Welcome](img/01_install-welcome.png)
+
+---
+
+# Site Administration
+
+--
+
+# Administration Menu
+
+![Menu](img/02_admin-menu.png)
+
+---
+
+# Content in Drupal
+
+---
+
+# Modules (Best Practices)
+
+---
+
+# Site Building (Best Practices)
+
+---
+
+# Theming (Best Practices)
+
+---
+
 # Resources
 
 Slides: http://nickgrace.github.io/intro-to-drupal
 
 [Drupal.org](http://www.drupal.org)
-
-[Structured Data Markup Helper](https://www.google.com/webmasters/markup-helper/u/0/)
-
-[Schema.org Drupal Module](https://www.drupal.org/project/schemaorg)
-
-[Schema.org Drupal Module Tutorial](https://www.drupal.org/node/1194024)
-
-
 
