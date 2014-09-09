@@ -129,6 +129,12 @@ http://nickgrace.github.io/intro-to-drupal
 
 --
 
+## Drupal 8
+
+![Drupal 8](img/drupal8logo.jpg)
+
+--
+
 ## Drupal Ecosystem
 
 ![Drupal Ecosystem](img/distro-vs-profileNov23-2011.png)
