@@ -6,7 +6,7 @@ http://nickgrace.github.io/intro-to-drupal
 
 ## Hi! we're...
 
-* Nick Grace, front end development manager at [JBS International, Inc.](http://www.jbsinternational.com) I'm [@nickgrace](https://twitter.com/nickgrace) just about everywhere.
+* Nick Grace, front end development manager at [JBS International, Inc.](http://www.jbsinternational.com) and front-end development instructor with [General Assembly](http://www.ga.co). I'm [@nickgrace](https://twitter.com/nickgrace) just about everywhere.
 
 * Gordon Ng, director of ux & web development at [JBS International, Inc.](http://www.jbsinternational.com) I'm [@pangeum](https://twitter.com/pangeum) just about everywhere.
 
@@ -158,6 +158,7 @@ http://nickgrace.github.io/intro-to-drupal
 * Taxonomy
 * Pages
 * Regions
+* Themes
 
 --
 
@@ -184,6 +185,9 @@ http://nickgrace.github.io/intro-to-drupal
 
 ## Entities
 
+![Entities](img/entities-new.png)
+
+[An Introduction to Entities](https://www.drupal.org/node/1261744)
 --
 
 ## Blocks
@@ -205,6 +209,8 @@ http://nickgrace.github.io/intro-to-drupal
 --
 
 ## Pages
+
+![Pages](img/03_add-basic-page.png)
 
 --
 
@@ -325,11 +331,19 @@ http://www.acquia.com/downloads
 
 # Theming (Best Practices)
 
+[Download Training Theme](gophers.zip)
+
 ---
 
 # Resources
 
 Slides: http://nickgrace.github.io/intro-to-drupal
 
-[Drupal.org](http://www.drupal.org)
+* [Drupal.org](http://www.drupal.org)
+* [Drupal Forums](https://www.drupal.org/forum)
+* [Drupal IRC Channels](https://www.drupal.org/irc)
+* [Daily Dose of Drupal](http://codekarate.com)
+* [Drupalize.me](https://drupalize.me)
+* [BuildAModule.com](https://buildamodule.com)
+* [LevelUpTuts Drupal Tutorials](http://leveluptuts.com/tutorials/drupal-tutorials)
 
